@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi cho ..... <3 <3 ",
-    introTitle: 'yang Lake',
+    introTitle: 'yang Lake',https://github.com/rapperjugi/Confess-Crush/blob/main/config.js
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
