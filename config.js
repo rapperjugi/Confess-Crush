@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Chào Yang Lake",
-    introTitle: 'Hương Giang',
+    titleWeb: "Gửi cho ..... <3 <3 ",
+    introTitle: 'yang Lake',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
