@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Gửi cho ..... <3 <3 ",
+    titleWeb: "Gửi cho DMK <3 <3 ",
     introTitle: 'yang Lake',https://github.com/rapperjugi/Confess-Crush/blob/main/config.js
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100005362807885/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/messages/t/notdongminhkhoa/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
